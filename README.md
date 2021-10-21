@@ -1,2 +1,2 @@
 # numerical_differentiation
-Numerical differentiation with Python.
+Examples of numerical differentiation with Python.
